@@ -1,0 +1,1 @@
+alert("Script at head's section")
